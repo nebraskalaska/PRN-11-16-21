@@ -885,9 +885,9 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-sheet-1 {
+  /* .u-section-6 .u-sheet-1 {
     min-height: 3127px;
-  }
+  } */
 
   .u-section-6 .u-group-1 {
     width: 340px;
@@ -968,10 +968,10 @@
 } .u-section-8 {
   background-image: none;
 }
-
-.u-section-8 .u-sheet-1 {
+  /* Removed empty space at bottom of accordion */
+/* .u-section-8 .u-sheet-1 {
   min-height: 100vh;
-}
+} */
 
 .u-section-8 .u-text-1 {
   margin: 60px auto 0;
