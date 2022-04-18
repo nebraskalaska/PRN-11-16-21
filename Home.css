@@ -1108,3 +1108,8 @@
 .rotate-180 {
   transform: rotate(180deg);
 }
+
+/* Remove nicepage footer margin */
+.u-footer {
+  margin-top: 0;
+}

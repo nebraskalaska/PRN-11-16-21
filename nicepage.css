@@ -23804,7 +23804,8 @@ a.u-link.u-hover-palette-4-light-3:hover {
 li.active > .u-button-style.u-button-style.u-palette-4-base,
 li.active > .u-button-style.u-button-style.u-palette-4-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #28b8b0 !important;
+  /* background-color: #28b8b0 !important; */
+  background-color: #EAFDFC !important;
 }
 .u-hover-palette-4-base:hover,
 .u-hover-palette-4-base[class*="u-border-"]:hover,
@@ -32721,7 +32722,8 @@ a.u-button-style.u-button-style.active > .u-text-active-palette-4-base[class*="u
 :not(.level-2) > .u-nav > .u-nav-item > a.u-nav-link.u-nav-link.u-text-active-palette-4-base.active,
 .u-popupmenu-items.u-text-hover-palette-4-base .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-palette-4-base .u-nav-link.active {
-  color: #2cccc4 !important;
+  /* color: #2cccc4 !important; */
+  color: #1a1a1a !important;
 }
 .u-text-palette-4-base .u-svg-link,
 .u-text-hover-palette-4-base:hover .u-svg-link,
